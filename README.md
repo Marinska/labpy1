@@ -3,7 +3,8 @@
 * Repository ini berisikan materi pembuatan program sederhana, yaitu mengenai cara untuk menentukan nilai terbesar dari tiga buah bilangan yang diinputkan.
 
 ## Buat file python
-* Tentu langkah awal yang harus kita lakukan adalah membuat file python. Langkah ini dapat dilakukan setelah menyelesaikan semua barisan koding, namun untuk meminimalisir kendala, lebih baik dilakukan diawal
+* Tentu langkah awal yang harus kita lakukan adalah membuat file python. 
+* Langkah ini dapat dilakukan setelah menyelesaikan semua barisan koding, namun untuk meminimalisir kendala, lebih baik dilakukan diawal.
 * Caranya, yaitu dengan membuka text editor seperti notepad, notepad++ atau yang lain sebagainya.
 
 ![github](https://github.com/Marinska/labpy1/blob/master/1.PNG)
@@ -39,12 +40,13 @@ elif b > c:
 ```
 
 
+
 ![github](https://github.com/Marinska/labpy1/blob/master/3.PNG)
 
 * Kemudian save lembar kerja kalian.
 
 ## Menjalankan program python
-* Untuk menjalankan program python, silahkan buka direktori penyimpanan file python yang telah dibuat, contoh `C:\Users\Marinska\Documents\GitHub\labpy1`.
+* Untuk menjalankan program python, silahkan buka direktori penyimpanan dimana file python yang telah kalian buat disimpan, contoh `C:\Users\Marinska\Documents\GitHub\labpy1`.
 
 ![github](https://github.com/Marinska/labpy1/blob/master/4.PNG)
 
@@ -52,7 +54,7 @@ elif b > c:
 
 ![github](https://github.com/Marinska/labpy1/blob/master/5.png)
 
-* Lalu jalankan program dengan me-Run dengan Run Module.
+* Lalu jalankan program dengan me-Run dengan Run Module (F5).
 
 ![github](https://github.com/Marinska/labpy1/blob/master/6.png)
 
@@ -60,3 +62,9 @@ elif b > c:
 * Inputkan 3 buah bilangan, maka program akan menentukan bilangan terbesar dari 3 buah bilangan yang telah diinputkan.
 
 ![github](https://github.com/Marinska/labpy1/blob/master/7.PNG)
+
+
+
+## Terima Kasih
+* Nama : Umar Ibnu Zainal Muttaqin
+* NIM : 311810909
