@@ -22,17 +22,17 @@
 
 ## Source Code
 * Tuliskan source code berikut pada file .py yang sudah dibuat.
-* `a = int(input("Masukan nilai pertama : "))
-b = int(input("Masukan nilai kedua : "))
-c = int(input("Masukan nilai ketiga : "))
-
-if a > b:
-	if a > c:
-		print("Nilai terbesar dari ketiga bilangan adalah ",a)
-	else:
-		print("Nilai terbesar dari ketiga bilangan adalah ",c)
-elif b > c:
-	print("Nilai terbesar dari ketiga bilangan adalah ",b)`
+`a = int(input("Masukan nilai pertama : "))`
+`b = int(input("Masukan nilai kedua : "))`
+`c = int(input("Masukan nilai ketiga : "))`
+` `
+`if a > b:`
+	`if a > c:`
+		`print("Nilai terbesar dari ketiga bilangan adalah ",a)`
+	`else:`
+		`print("Nilai terbesar dari ketiga bilangan adalah ",c)`
+`elif b > c:`
+	`print("Nilai terbesar dari ketiga bilangan adalah ",b)`
 
 
 ![github](https://github.com/Marinska/labpy1/blob/master/3.PNG)
@@ -46,11 +46,11 @@ elif b > c:
 
 * Kemudian, klik kanan pada file python tersebut, lalu pilih edit with IDLE.
 
-![github](https://github.com/Marinska/labpy1/blob/master/5.PNG)
+![github](https://github.com/Marinska/labpy1/blob/master/5.png)
 
 * Lalu jalankan program dengan me-Run dengan Run Module.
 
-![github](https://github.com/Marinska/labpy1/blob/master/6.PNG)
+![github](https://github.com/Marinska/labpy1/blob/master/6.png)
 
 ## Hasil
 * Inputkan 3 buah bilangan, maka program akan menentukan bilangan terbesar dari 3 buah bilangan yang telah diinputkan.
