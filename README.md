@@ -22,17 +22,21 @@
 
 ## Source Code
 * Tuliskan source code berikut pada file .py yang sudah dibuat.
-`a = int(input("Masukan nilai pertama : "))`
-`b = int(input("Masukan nilai kedua : "))`
-`c = int(input("Masukan nilai ketiga : "))`
-` `
-`if a > b:`
-	`if a > c:`
-		`print("Nilai terbesar dari ketiga bilangan adalah ",a)`
-	`else:`
-		`print("Nilai terbesar dari ketiga bilangan adalah ",c)`
-`elif b > c:`
-	`print("Nilai terbesar dari ketiga bilangan adalah ",b)`
+
+```
+a = int(input("Masukan nilai pertama : "))
+b = int(input("Masukan nilai kedua : "))
+c = int(input("Masukan nilai ketiga : "))
+
+if a > b:
+	if a > c:
+		print("Nilai terbesar dari ketiga bilangan adalah ",a)
+	else:
+		print("Nilai terbesar dari ketiga bilangan adalah ",c)
+elif b > c:
+	print("Nilai terbesar dari ketiga bilangan adalah ",b)
+	
+```
 
 
 ![github](https://github.com/Marinska/labpy1/blob/master/3.PNG)
