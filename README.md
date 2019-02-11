@@ -61,8 +61,16 @@ elif b > c:
 ## Hasil
 * Inputkan 3 buah bilangan, maka program akan menentukan bilangan terbesar dari 3 buah bilangan yang telah diinputkan.
 
+kemungkinan bilangan ke 1 adalah bilangan terbesar
 ![github](https://github.com/Marinska/labpy1/blob/master/7.PNG)
 
+
+kemungkinan bilangan ke 2 adalah bilangan terbesar
+![github](https://github.com/Marinska/labpy1/blob/master/8.PNG)
+
+
+kemungkinan bilangan ke 3 adalah bilangan terbesar
+![github](https://github.com/Marinska/labpy1/blob/master/9.PNG)
 
 
 ## Terima Kasih
